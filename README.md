@@ -4,7 +4,7 @@ The  [SfDataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid) contro
 Please consult the code example below for guidance on loading the `SfDataGrid` control within a StackLayout.
  
  ```XML
- <StackLayout>
+<StackLayout>
     <syncfusion:SfDataGrid ColumnWidthMode="Auto"
                            VerticalOptions="CenterAndExpand"
                            ItemsSource="{Binding Employees}">
@@ -16,9 +16,9 @@ Please consult the code example below for guidance on loading the `SfDataGrid` c
 
 Executing the code example above yields the following output.
 
-<img src="https://{yourdomain}/kb/attachment/article/14454/inline/15018" width="360">
+<img src="dataGridWithStackLayout.png" width="360">
 
-[View sample in GitHub]()
+[View sample in GitHub](https://github.com/SyncfusionExamples/How-to-load-.NET-MAUI-DataGrid-SfDataGrid-in-a-StackLayout/pull/1)
 
 Take a moment to explore this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more information about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples. Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid (SfDataGrid).
 
